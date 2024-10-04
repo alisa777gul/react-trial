@@ -40,3 +40,13 @@
 .read-the-docs {
   color: #888;
 }
+
+.variant.blue{
+  color: rgb(40, 92, 92);
+  margin-right: 5px;
+}
+.variant.red{
+  color: red;
+  margin-right: 5px;
+}
+
